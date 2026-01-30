@@ -26,14 +26,6 @@ Saya adalah mahasiswi tingkat akhir di **Politeknik STMI Jakarta**, menempuh pen
 
 ---
 
-### 📈 Statistik GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feyfryvzn&show_icons=true&theme=radical&hide_border=true&title_color=ff85b3&icon_color=ff85b3" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyfryvzn&layout=compact&theme=radical&hide_border=true&title_color=ff85b3" />
-</p>
-
----
-
 ### 📫 Mari Terhubung!
 - 📧 Email: [feyzarevalina@gmail.com](mailto:feyzarevalina@gmail.com)
 - 📸 Instagram: [@fey_fryvzn](https://instagram.com/fey_fryvzn)
